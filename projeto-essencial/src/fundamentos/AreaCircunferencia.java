@@ -10,11 +10,13 @@ public class AreaCircunferencia {
 
         // 3.1415 (double)
 
-        final double pi = 3.1415;
+
+        // CONSTANTES EM LETRA MAIUSCULA
+        final double PI = 3.1415;
 
         double raio = 10.0;
 
-        double area =  pi * (raio* raio);
+        double area =  PI * (raio* raio);
 
         System.out.println("Area da circunferencia de raio =" + raio +" = " + area);
     }
