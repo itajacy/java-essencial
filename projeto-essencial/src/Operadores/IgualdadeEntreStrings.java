@@ -20,7 +20,7 @@ public class IgualdadeEntreStrings {
         System.out.println("olá".equals(texto)); //true  - comparando conteúdo
 
 
-        
+
 
     }
 }
